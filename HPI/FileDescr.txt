@@ -1,0 +1,10 @@
+MSPUS - house prices in dollars
+BOGZ1FL075035503Q - interest rates in dollars
+MORTGAGE30US - quarterly average mortage rates
+RRVRUSQ156N - rental vacency rates 
+A067RO1Q156NBEA - income after income tax payments
+WPU057303 - producer price index of fuel
+CSUSHPINSA - house price index from sp case logic taking 100 at 2000
+MSACSR - house supply in us quarterly
+EMRATIO - employment to population ration
+TOTBUSMPCIMSA - percentage change in bussiness inventory levels 
